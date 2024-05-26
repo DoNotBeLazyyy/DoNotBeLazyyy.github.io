@@ -1,0 +1,12 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.start-button {
+  background-color: rgb(255, 2, 120);
+  border: 1px solid rgb(47, 0, 255);
+}
